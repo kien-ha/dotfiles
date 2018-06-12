@@ -1,2 +1,4 @@
-Kien Ha Arch Linux dotfiles
+#Kien Ha Arch Linux Dotfiles
+
+Vim - Terminal text editor
 
